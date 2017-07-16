@@ -128,6 +128,7 @@
     <ClInclude Include="..\..\zylib\Timer.h" />
     <ClInclude Include="..\..\zylib\Tools.h" />
     <ClInclude Include="..\..\zylib\TypeTraits.h" />
+    <ClInclude Include="..\..\zylib\ZYLib.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\zylib\Code.cpp" />
